@@ -23,25 +23,30 @@ Btn.addEventListener('click', function(){
 });
 
 
-// console.log('----------------EXERCISE#3----------------------');
+console.log('----------------EXERCISE#3----------------------');
 
-// let convertButton = document.getElementById("convert");
-// let chooseCurr = document.getElementById("currency");
+let convertButton = document.getElementById("convert");
+let chooseCurr = document.getElementById("currency");
 
-// convertButton.addEventListener('click', function(){
-//     let input = valElement => {      
-//         let money = 0;
-//             if (chooseCurr.value === "MKD"){
-//                 money = valElement;
-//                 console.log(`You have inserted ${money}MKD`);
-//             }else if (chooseCurr.value === "EUR"){
-//                 money = valElement / 62;
-//                 console.log(`You have inserted ${money}EUR`);
-//             }else if (chooseCurr.value === "USD"){
-//                 money = valElement / 50;
-//             }       
-//     }
-// });
+convertButton.addEventListener('click', function(event){
+    event.preventDefault();
+    let newCurrency = chooseCurr.value;
+    input(60,newCurrency);
+    input(100, newCurrency);
+});
 
-// input(60);
-// input(100);
+
+
+let input = (valElement, newCurrency) => {      
+    let money = 0;
+        if (newCurrency === "MKD"){
+            money = valElement;
+            console.log(`You have inserted ${money.toFixed(2)} MKD`);
+        }else if (newCurrency === "EUR"){
+            money = valElement / 62;
+            console.log(`You have inserted ${money.toFixed(2)} EUR`);
+        }else if (newCurrency === "USD"){
+            money = valElement / 50;
+            console.log(`You have inserted ${money.toFixed(2)} USD`);
+        }       
+};
