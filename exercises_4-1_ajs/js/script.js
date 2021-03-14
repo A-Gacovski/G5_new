@@ -1,14 +1,13 @@
 console.log('-----------------EXERCISE#1--------------------');
 
-let account = array => {
-    let sum = 0;
-    for (const element of array) {
-        sum += element;
-    }
-    console.log(sum);
-}
+let unSumedArr = [1,2,3,4,5];
 
-account([1,2,3,4,5]);
+let sumOfArray = unSumedArr.reduce((acc, cur) => {
+    return acc + cur;
+});
+console.log(sumOfArray);
+
+
 
 console.log('----------------EXERCISE#2----------------------');
 
@@ -33,9 +32,8 @@ convertButton.addEventListener('click', function(event){
     let newCurrency = chooseCurr.value;
     input(60,newCurrency);
     input(100, newCurrency);
+    input(124,newCurrency);
 });
-
-
 
 let input = (valElement, newCurrency) => {      
     let money = 0;
