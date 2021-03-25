@@ -1,0 +1,13 @@
+C:\Users\polar\OneDrive\Desktop\C# Basics\homework-1\homework-1\bin\Debug\netcoreapp3.1\homework-1.exe
+C:\Users\polar\OneDrive\Desktop\C# Basics\homework-1\homework-1\bin\Debug\netcoreapp3.1\homework-1.deps.json
+C:\Users\polar\OneDrive\Desktop\C# Basics\homework-1\homework-1\bin\Debug\netcoreapp3.1\homework-1.runtimeconfig.json
+C:\Users\polar\OneDrive\Desktop\C# Basics\homework-1\homework-1\bin\Debug\netcoreapp3.1\homework-1.runtimeconfig.dev.json
+C:\Users\polar\OneDrive\Desktop\C# Basics\homework-1\homework-1\bin\Debug\netcoreapp3.1\homework-1.dll
+C:\Users\polar\OneDrive\Desktop\C# Basics\homework-1\homework-1\bin\Debug\netcoreapp3.1\homework-1.pdb
+C:\Users\polar\OneDrive\Desktop\C# Basics\homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.csprojAssemblyReference.cache
+C:\Users\polar\OneDrive\Desktop\C# Basics\homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.AssemblyInfoInputs.cache
+C:\Users\polar\OneDrive\Desktop\C# Basics\homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.AssemblyInfo.cs
+C:\Users\polar\OneDrive\Desktop\C# Basics\homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.csproj.CoreCompileInputs.cache
+C:\Users\polar\OneDrive\Desktop\C# Basics\homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.dll
+C:\Users\polar\OneDrive\Desktop\C# Basics\homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.pdb
+C:\Users\polar\OneDrive\Desktop\C# Basics\homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.genruntimeconfig.cache
