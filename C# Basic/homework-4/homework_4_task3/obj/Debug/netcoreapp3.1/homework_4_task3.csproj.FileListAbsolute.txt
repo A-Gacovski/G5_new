@@ -1,0 +1,13 @@
+C:\Users\polar\OneDrive\Desktop\C# Basic\Classes04\homework-4\homework_4_task3\bin\Debug\netcoreapp3.1\homework_4_task3.exe
+C:\Users\polar\OneDrive\Desktop\C# Basic\Classes04\homework-4\homework_4_task3\bin\Debug\netcoreapp3.1\homework_4_task3.deps.json
+C:\Users\polar\OneDrive\Desktop\C# Basic\Classes04\homework-4\homework_4_task3\bin\Debug\netcoreapp3.1\homework_4_task3.runtimeconfig.json
+C:\Users\polar\OneDrive\Desktop\C# Basic\Classes04\homework-4\homework_4_task3\bin\Debug\netcoreapp3.1\homework_4_task3.runtimeconfig.dev.json
+C:\Users\polar\OneDrive\Desktop\C# Basic\Classes04\homework-4\homework_4_task3\bin\Debug\netcoreapp3.1\homework_4_task3.dll
+C:\Users\polar\OneDrive\Desktop\C# Basic\Classes04\homework-4\homework_4_task3\bin\Debug\netcoreapp3.1\homework_4_task3.pdb
+C:\Users\polar\OneDrive\Desktop\C# Basic\Classes04\homework-4\homework_4_task3\obj\Debug\netcoreapp3.1\homework_4_task3.csprojAssemblyReference.cache
+C:\Users\polar\OneDrive\Desktop\C# Basic\Classes04\homework-4\homework_4_task3\obj\Debug\netcoreapp3.1\homework_4_task3.AssemblyInfoInputs.cache
+C:\Users\polar\OneDrive\Desktop\C# Basic\Classes04\homework-4\homework_4_task3\obj\Debug\netcoreapp3.1\homework_4_task3.AssemblyInfo.cs
+C:\Users\polar\OneDrive\Desktop\C# Basic\Classes04\homework-4\homework_4_task3\obj\Debug\netcoreapp3.1\homework_4_task3.csproj.CoreCompileInputs.cache
+C:\Users\polar\OneDrive\Desktop\C# Basic\Classes04\homework-4\homework_4_task3\obj\Debug\netcoreapp3.1\homework_4_task3.dll
+C:\Users\polar\OneDrive\Desktop\C# Basic\Classes04\homework-4\homework_4_task3\obj\Debug\netcoreapp3.1\homework_4_task3.pdb
+C:\Users\polar\OneDrive\Desktop\C# Basic\Classes04\homework-4\homework_4_task3\obj\Debug\netcoreapp3.1\homework_4_task3.genruntimeconfig.cache
