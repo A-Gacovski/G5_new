@@ -1,0 +1,4 @@
+D:\SEDC\Class_05\homework-5\racing_program\obj\Debug\netcoreapp3.1\racing_program.csprojAssemblyReference.cache
+D:\SEDC\Class_05\homework-5\racing_program\obj\Debug\netcoreapp3.1\racing_program.AssemblyInfoInputs.cache
+D:\SEDC\Class_05\homework-5\racing_program\obj\Debug\netcoreapp3.1\racing_program.AssemblyInfo.cs
+D:\SEDC\Class_05\homework-5\racing_program\obj\Debug\netcoreapp3.1\racing_program.csproj.CoreCompileInputs.cache
