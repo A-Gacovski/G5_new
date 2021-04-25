@@ -1,20 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using racing_program;
 
 namespace racing_program.drivers_cars
 {
-    class Driver
+    public class Driver
     {
-        public string Racer { get; set; }
+        public string Name { get; set; }
         public int Skill { get; set; }
+       
 
-        public Driver(string racer, int skill)
+        
+        public Driver(string name, int skill)
         {
-            Racer = racer;
+            Name = name;
             Skill = skill;
         }
 
-
+        
     }
 }

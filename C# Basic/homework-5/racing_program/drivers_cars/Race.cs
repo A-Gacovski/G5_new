@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using racing_program;
 
 namespace racing_program.drivers_cars
 {
-    class Race
+    public class Race
     {
         public string DriverRacing { get; set; }
         public string CarRacing { get; set; }
@@ -14,8 +15,10 @@ namespace racing_program.drivers_cars
             DriverRacing = driverRacing;
             CarRacing = carRacing;
         }
-        public string RaceCars()
+        
+        public string RaceCars(Race race1, Race race2)
         {
+            
             if (race1.QualityDrive > race2.QualityDrive)
             {
                 string announcement = "Driver no.1 was faster";

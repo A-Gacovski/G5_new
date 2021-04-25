@@ -54,8 +54,8 @@ namespace racing_program
 
             Race race1 = new Race(driverRacing[0], carRacing[0]);
             Race race2 = new Race(driverRacing[1], carRacing[1]);
-
-            Console.WriteLine(RaceCars());
+            GetSkill();
+            Console.WriteLine(RaceCars(race1, race2));
 
         }
     } 

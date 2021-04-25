@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SEDC\\Class_05\\homework-5\\racing_program\\racing_program.csproj": {}
+    "D:\\SEDC\\Basic_C#\\Class_05_C# Basic\\homework-5\\racing_program\\racing_program.csproj": {}
   },
   "projects": {
-    "D:\\SEDC\\Class_05\\homework-5\\racing_program\\racing_program.csproj": {
+    "D:\\SEDC\\Basic_C#\\Class_05_C# Basic\\homework-5\\racing_program\\racing_program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SEDC\\Class_05\\homework-5\\racing_program\\racing_program.csproj",
+        "projectUniqueName": "D:\\SEDC\\Basic_C#\\Class_05_C# Basic\\homework-5\\racing_program\\racing_program.csproj",
         "projectName": "racing_program",
-        "projectPath": "D:\\SEDC\\Class_05\\homework-5\\racing_program\\racing_program.csproj",
+        "projectPath": "D:\\SEDC\\Basic_C#\\Class_05_C# Basic\\homework-5\\racing_program\\racing_program.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SEDC\\Class_05\\homework-5\\racing_program\\obj\\",
+        "outputPath": "D:\\SEDC\\Basic_C#\\Class_05_C# Basic\\homework-5\\racing_program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

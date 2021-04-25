@@ -1,13 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using racing_program;
 
 
 namespace racing_program.drivers_cars
 
 
 {
-    class Car
+    public class Car
     {
         public string Model { get; set; }
         public int Speed { get; set; }
@@ -25,11 +26,15 @@ namespace racing_program.drivers_cars
         {
             QualityDrive = CalculateSpeed();
         }
-
         public int CalculateSpeed()
         {
-            int QualityDrive = carListing[i].Speed * driverListing[i].Skill;
+            int QualityDrive = Speed * GetSkill();
             return QualityDrive;
+        }
+
+        private static int GetSkill()
+        {
+            return Driver.Skill;
         }
     }
 }
