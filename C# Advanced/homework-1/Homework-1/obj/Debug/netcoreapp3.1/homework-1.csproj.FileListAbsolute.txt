@@ -1,0 +1,4 @@
+D:\SEDC\Advanced_C#\homework-1\Homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.csprojAssemblyReference.cache
+D:\SEDC\Advanced_C#\homework-1\Homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.AssemblyInfoInputs.cache
+D:\SEDC\Advanced_C#\homework-1\Homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.AssemblyInfo.cs
+D:\SEDC\Advanced_C#\homework-1\Homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.csproj.CoreCompileInputs.cache
