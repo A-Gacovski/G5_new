@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace homework_1
 {
@@ -9,39 +10,45 @@ namespace homework_1
         {
             List<string> words = new List<string>();
 
+
             Console.WriteLine("Please enter words, to stop enter x: ");
-            string newWord = Console.ReadLine();
-            while (newWord.ToLower() != "x")
+            bool validData = true;
+
+            while (validData)
             {
-                words.Add(newWord);
-                newWord = Console.ReadLine();
+
+                string newWord = Console.ReadLine();
+
+                if (newWord.ToLower() != "x")
+                {
+                    words.Add(newWord);
+                }
+                else
+                {
+                    validData = false;
+                }
             }
 
             Console.WriteLine("Please enter some text: ");
             string newParagraph = Console.ReadLine();
 
-            string midiParagraph = newParagraph.ToLower();
-            string [] paragraph = midiParagraph.Split(" ");
-
-            int count = 0;
-            words.ForEach(word =>
+            string [] paragraphs = newParagraph.Split(" ");
+            int counter = 0;
+            foreach( string paragraph in paragraphs)
             {
-                paragraph.ForEach(cut =>
+                foreach( string word in words)
                 {
-                    if (word == cut)
+                    if(paragraph.ToLower() == word.ToLower())
                     {
-                        count++;
+                        counter++;
                     }
                     else
                     {
                         continue;
                     }
-                    
-                });
-
-            });
-            Console.WriteLine(count);
-            Console.ReadLine();
+                }
+            }
+            Console.WriteLine(counter);
         }
     }
 }

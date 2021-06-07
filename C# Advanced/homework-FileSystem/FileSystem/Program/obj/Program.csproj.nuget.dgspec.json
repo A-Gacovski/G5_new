@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SEDC\\Advanced_C#\\homework-1\\homework-1\\homework-1.csproj": {}
+    "D:\\SEDC\\Advanced_C#\\homework-FileSystem\\FileSystem\\Program\\Program.csproj": {}
   },
   "projects": {
-    "D:\\SEDC\\Advanced_C#\\homework-1\\homework-1\\homework-1.csproj": {
+    "D:\\SEDC\\Advanced_C#\\homework-FileSystem\\FileSystem\\Program\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SEDC\\Advanced_C#\\homework-1\\homework-1\\homework-1.csproj",
-        "projectName": "homework-1",
-        "projectPath": "D:\\SEDC\\Advanced_C#\\homework-1\\homework-1\\homework-1.csproj",
+        "projectUniqueName": "D:\\SEDC\\Advanced_C#\\homework-FileSystem\\FileSystem\\Program\\Program.csproj",
+        "projectName": "Program",
+        "projectPath": "D:\\SEDC\\Advanced_C#\\homework-FileSystem\\FileSystem\\Program\\Program.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SEDC\\Advanced_C#\\homework-1\\homework-1\\obj\\",
+        "outputPath": "D:\\SEDC\\Advanced_C#\\homework-FileSystem\\FileSystem\\Program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

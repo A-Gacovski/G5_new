@@ -2,3 +2,16 @@ D:\SEDC\Advanced_C#\homework-1\Homework-1\homework-1\obj\Debug\netcoreapp3.1\hom
 D:\SEDC\Advanced_C#\homework-1\Homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.AssemblyInfoInputs.cache
 D:\SEDC\Advanced_C#\homework-1\Homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.AssemblyInfo.cs
 D:\SEDC\Advanced_C#\homework-1\Homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.csproj.CoreCompileInputs.cache
+D:\SEDC\Advanced_C#\homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.csprojAssemblyReference.cache
+D:\SEDC\Advanced_C#\homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.AssemblyInfoInputs.cache
+D:\SEDC\Advanced_C#\homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.AssemblyInfo.cs
+D:\SEDC\Advanced_C#\homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.csproj.CoreCompileInputs.cache
+D:\SEDC\Advanced_C#\homework-1\homework-1\bin\Debug\netcoreapp3.1\homework-1.exe
+D:\SEDC\Advanced_C#\homework-1\homework-1\bin\Debug\netcoreapp3.1\homework-1.deps.json
+D:\SEDC\Advanced_C#\homework-1\homework-1\bin\Debug\netcoreapp3.1\homework-1.runtimeconfig.json
+D:\SEDC\Advanced_C#\homework-1\homework-1\bin\Debug\netcoreapp3.1\homework-1.runtimeconfig.dev.json
+D:\SEDC\Advanced_C#\homework-1\homework-1\bin\Debug\netcoreapp3.1\homework-1.dll
+D:\SEDC\Advanced_C#\homework-1\homework-1\bin\Debug\netcoreapp3.1\homework-1.pdb
+D:\SEDC\Advanced_C#\homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.dll
+D:\SEDC\Advanced_C#\homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.pdb
+D:\SEDC\Advanced_C#\homework-1\homework-1\obj\Debug\netcoreapp3.1\homework-1.genruntimeconfig.cache
