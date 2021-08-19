@@ -1,0 +1,23 @@
+﻿@model Order
+
+@{ 
+    string status;
+    Model.Delivered = true;
+    if (Model.Delivered)
+    {
+        status = "Pizza is delivered";
+    }
+    else
+    {
+        status = "Pizza is not delivered yet";
+    }
+}
+<h1>Order details</h1>
+<br />
+<ul>
+    <li>ID: @Model.Id</li>
+    <li>Full Name: @Model.User.GetFullName()</li>
+    <li>Pizza: @Model.Pizza</li>
+    <li>Price: @Model.Price</li>
+    <li>Delivered: @status</li>
+</ul>
