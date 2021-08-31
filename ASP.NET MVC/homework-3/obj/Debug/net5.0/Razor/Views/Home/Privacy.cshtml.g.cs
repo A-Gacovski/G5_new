@@ -14,20 +14,20 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 #line 1 "D:\SEDC\ASP.NET_MVC\AppHomework\AppHomework-3\homework-3\Views\_ViewImports.cshtml"
-using homework_3;
+using homework_2;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 2 "D:\SEDC\ASP.NET_MVC\AppHomework\AppHomework-3\homework-3\Views\_ViewImports.cshtml"
-using homework_3.Models;
+using homework_2.Models;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d8ddb6bffa5a9b264bf8f89038bf03c234083fd3", @"/Views/Home/Privacy.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8020bced6ee974964dbf94290bc7a72a6f3f0d06", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7539bed6cb851309a36cc547fc5bb03164f1ba21", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Privacy : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

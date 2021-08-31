@@ -1,4 +1,4 @@
-﻿using homework_3.Models;
+﻿using homework_2.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace homework_3.Controllers
+namespace homework_2.Controllers
 {
     public class HomeController : Controller
     {
@@ -20,7 +20,37 @@ namespace homework_3.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var person = new Employee
+            {
+                EmployeeId = 23,
+                FirstName = "Bodan",
+                LastName = "Bojkovski",
+                DateOfHire = new DateTime(2011, 12, 01),
+                Position = Position.Junior,
+                Salary = 1500.00
+            };
+            var branch = new Division
+            {
+                DivisionId = 10,
+                Name = "Berovo",
+                HeadOfDivision = person
+            };
+
+            var employeeDetailsModel = new EmployeeDetailsViewModel
+            {
+                
+                EmployeeId = person.EmployeeId,
+                FirstName = person.FirstName,
+                LastName = person.LastName,
+                FullEmployeeName = person.GetFullName(),
+                Position = Position.Junior,
+                ToBePositioned = person.PositionFunc(),
+                DateOfHire = person.DateOfHire.Date,
+                Salary = person.Salary,
+                DivisionId = branch.DivisionId,
+                DivisionName = branch.Name
+            };
+            return View(employeeDetailsModel);
         }
 
         public IActionResult Privacy()

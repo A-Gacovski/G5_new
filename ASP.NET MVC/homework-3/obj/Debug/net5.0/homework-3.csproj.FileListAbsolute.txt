@@ -38,4 +38,3 @@ D:\SEDC\ASP.NET_MVC\AppHomework\AppHomework-3\homework-3\obj\Debug\net5.0\ref\ho
 D:\SEDC\ASP.NET_MVC\AppHomework\AppHomework-3\homework-3\obj\Debug\net5.0\homework-3.pdb
 D:\SEDC\ASP.NET_MVC\AppHomework\AppHomework-3\homework-3\obj\Debug\net5.0\homework-3.genruntimeconfig.cache
 D:\SEDC\ASP.NET_MVC\AppHomework\AppHomework-3\homework-3\obj\Debug\net5.0\homework-3.csproj.CopyComplete
-D:\SEDC\ASP.NET_MVC\AppHomework\AppHomework-3\homework-3\obj\Debug\net5.0\Razor\Views\Order\GetOrderDetails.cshtml.g.cs

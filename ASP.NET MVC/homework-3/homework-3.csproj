@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>homework_3</RootNamespace>
+    <RootNamespace>homework_2</RootNamespace>
   </PropertyGroup>
 
 </Project>

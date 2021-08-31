@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SEDC\\ASP.NET_MVC\\AppHomework\\AppHomework-2\\homework-2\\homework-2.csproj",
-      "projectName": "homework-2",
-      "projectPath": "D:\\SEDC\\ASP.NET_MVC\\AppHomework\\AppHomework-2\\homework-2\\homework-2.csproj",
+      "projectUniqueName": "D:\\SEDC\\ASP.NET_MVC\\AppHomework\\AppHomework\\AppHomework.csproj",
+      "projectName": "AppHomework",
+      "projectPath": "D:\\SEDC\\ASP.NET_MVC\\AppHomework\\AppHomework\\AppHomework.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\SEDC\\ASP.NET_MVC\\AppHomework\\AppHomework-2\\homework-2\\obj\\",
+      "outputPath": "D:\\SEDC\\ASP.NET_MVC\\AppHomework\\AppHomework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

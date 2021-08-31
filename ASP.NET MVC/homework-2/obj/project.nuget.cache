@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QxVeGWhX5Wnodd4HUbNB/tk85lyfsE7KV6cg5+Kd1OifKENhEBh+yMclJrlGkAblnSfN5M+Ri3SPqU2Yk/ueNQ==",
+  "dgSpecHash": "dnmV+C7MBHK8Kwqddy6+nNwFDOpNK794RK1MnCf8UZED7Yq0/rjNLmk7KeaLlVrfoJZRfeg9SqmVa0P54lAkHg==",
   "success": true,
-  "projectFilePath": "D:\\SEDC\\ASP.NET_MVC\\AppHomework\\AppHomework-2\\homework-2\\homework-2.csproj",
+  "projectFilePath": "D:\\SEDC\\ASP.NET_MVC\\AppHomework\\AppHomework\\AppHomework.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

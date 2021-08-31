@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace homework_2
+namespace AppHomework
 {
     public class Startup
     {
