@@ -1,0 +1,38 @@
+﻿@model NewOrderViewModel
+
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(f => f.FirstName)
+    @Html.TextBoxFor(f => f.FirstName)
+    <br />
+    @Html.LabelFor(l => l.LastName)
+    @Html.TextBoxFor(l => l.LastName)
+    <br />
+    @Html.LabelFor(p => p.Pizza)
+    @Html.TextBoxFor(p => p.Pizza)
+    <br />
+    @Html.LabelFor(s => s.Size)
+    @Html.DropDownListFor(s => s.Size,
+        Html.GetEnumSelectList(Model.Size.GetType()))
+    <br />
+    <button type="submit">Submit order</button>
+}
+<br />
+<hr />
+<br />
+<form asp-controller="Order" asp-action="NewOrder" method="post">
+    <label asp-for="FirstName"></label>
+    <input asp-for="FirstName" />
+    <br />
+    <label asp-for="LastName"></label>
+    <input asp-for="LastName" />
+    <br />
+    <label asp-for="Pizza"></label>
+    <input asp-for="Pizza" />
+    <br />
+    <label asp-for="Size"></label>
+    <select asp-for="Size" asp-items="Html.GetEnumSelectList(Model.Size.GetType())"></select>
+    <br />
+    <button type="submit">Submit order</button>
+</form>
